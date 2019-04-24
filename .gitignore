@@ -1,7 +1,3 @@
 .pioenvs
 .piolibdeps
 .vscode
-wifisettings.h
-mqttsettings.h
-
-
